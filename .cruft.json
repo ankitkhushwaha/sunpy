@@ -1,5 +1,5 @@
 {
-  "template": "https://github.com/sunpy/package-template",
+  "template": "https://github.com/ankitkhushwaha/sunpy-package-template",
   "commit": "4f11e366c6efc9dcb5658ca952ec4196e201212b",
   "checkout": null,
   "context": {
@@ -31,7 +31,7 @@
         "docs/_static",
         ".github/workflows/sub_package_update.yml"
       ],
-      "_template": "https://github.com/sunpy/package-template",
+      "_template": "https://github.com/ankitkhushwaha/sunpy-package-template",
       "_commit": "4f11e366c6efc9dcb5658ca952ec4196e201212b"
     }
   },
